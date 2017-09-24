@@ -1,7 +1,11 @@
-## Data Wrangling with Python
+## Required prework
+During this workshop, you will be writing python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own resaerch data! To make this possible, I ask that you do some setup on your laptop before arriving.
 
-### Required prework
-You can use the [editor on GitHub](https://github.com/RebeccaWPerry/python_data_wrangling/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### I have used Python on my laptop before
+
+### This is all totally new to me
+
+This workshop is a quick 90 minute workshop. To get the most out of it, please come with your laptop already configured.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
