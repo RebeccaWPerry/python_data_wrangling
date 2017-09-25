@@ -1,7 +1,7 @@
 # Data Wrangling with Python
 
 ## Required prework
-During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own data! To make this possible, I ask that you do some setup on your laptop before arriving.
+During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own data! To make this possible, I ask that you do some setup on your laptop before arriving. If you run into trouble installing the necessities, please come to the class anyways. There will be people to help you.
 
 The workshop will make heavy use of [Software Carpentry's](https://software-carpentry.org/lessons/) lesson on scientific Python programming. Please download the sample data set python-novice-inflammation-data.zip from here: http://swcarpentry.github.io/python-novice-inflammation/setup/
 
