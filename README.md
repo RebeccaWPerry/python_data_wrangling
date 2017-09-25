@@ -38,7 +38,7 @@ If these packages are already installed, then the ipython console will simply re
 plt.figure()
 plt.show()
 ```
-The intended output is a new window that says Figure 1 at the top has some icons, and is mostly gray. If you got an error instead, Google will be the best avenue to troubleshoot that. Closing the figure window will bring you back to a fresh command prompt.
+The intended output is a new window that says Figure 1 at the top, has some icons, and is mostly gray. If you got an error instead, Google will be the best avenue to troubleshoot the error. Closing the figure window will bring you back to a fresh command prompt.
 
 4. Great! You know how to start up an interactive python console and can import the necessary libraries. Please bring this laptop to the workshop. See you there!
 
