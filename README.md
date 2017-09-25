@@ -44,7 +44,10 @@ The intended output is a new window that says Figure 1 at the top has some icons
 
 ### Resoources
 [Google](https://www.google.com/) How did people learn how to code before there was Google?
+
 [Stack Overflow](https://stackoverflow.com/) Many of your Google searches may land you here
+
 [Software Carpentry](https://software-carpentry.org/)
+
 [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 
