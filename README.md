@@ -1,7 +1,7 @@
 # Data Wrangling with Python
 
 ## Required prework
-During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own research data! To make this possible, I ask that you do some setup on your laptop before arriving.
+During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own data! To make this possible, I ask that you do some setup on your laptop before arriving.
 
 The workshop will make heavy use of [Software Carpentry's](https://software-carpentry.org/lessons/) lesson on scientific Python programming. Please download the sample data set python-novice-inflammation-data.zip from here: http://swcarpentry.github.io/python-novice-inflammation/setup/
 
@@ -12,7 +12,7 @@ My recommendation for scientific Python is to install the Anaconda Python distri
 
 You can choose between 3.6 and 2.7. If you are just starting out and aren't tied to any legacy code, I recommend going for 3.6. You can download either version here: https://www.anaconda.com/download/
 
-After completing the installation (could take up to 30 minutes), you will need to verify that it installed correctly following the steps below. To follow these steps you need to find the terminal or command prompt on your computer. You will be able to find Terminal on a Mac or Linux laptop and a Command Prompt on a Windows laptop. If there is somewhere you are used to clicking and then typing to pull up a program, that's where you would be typing Terminal or Command to pull up either of those programs.
+After completing the installation (could take up to 30 minutes), you will need to verify that it installed correctly following the steps below. To follow these steps you need to find the Terminal or Command Prompt on your computer. You will be able to find Terminal on a Mac or Linux laptop and a Command Prompt on a Windows laptop. If there is somewhere you are used to clicking and then typing the name of a program to search for it (e.g the start or Windows menu), that's where you would be typing Terminal or Command to pull up either of those programs.
 
 
 ### I already have Python on my computer
@@ -50,4 +50,3 @@ The intended output is a new window that says Figure 1 at the top has some icons
 [Software Carpentry](https://software-carpentry.org/)
 
 [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-
