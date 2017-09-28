@@ -42,7 +42,7 @@ The intended output is a new window that says Figure 1 at the top, has some icon
 
 4. Great! You know how to start up an interactive python console and can import the necessary libraries. Please bring this laptop to the workshop. See you there!
 
-### Resoources
+### Resources
 [Google](https://www.google.com/){:target="_blank"} How did people learn how to code before there was Google?
 
 [Stack Overflow](https://stackoverflow.com/){:target="_blank"} Many of your Google searches may land you here
@@ -50,3 +50,5 @@ The intended output is a new window that says Figure 1 at the top, has some icon
 [Software Carpentry](https://software-carpentry.org/){:target="_blank"}
 
 [Scipy Lecture Notes](http://www.scipy-lectures.org/){:target="_blank"}
+
+Please feel free to reach out to me at perry.becca@gmail.com
