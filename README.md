@@ -11,6 +11,7 @@ Great. Now that you have the data, you need a programming language! Here are sep
 My recommendation for scientific Python is to install the Anaconda Python distribution. This is an easy way to install Python bundled up with a lot of really helpful libraries.
 
 You can choose between 3.6 and 2.7. If you are just starting out and aren't tied to any legacy code, I recommend going for 3.6. You can download either version [here](https://www.anaconda.com/download/): https://www.anaconda.com/download/.
+[here](https://www.anaconda.com/download/){:target="_blank"}
 
 After completing the installation (could take up to 30 minutes), you will need to verify that it installed correctly following the steps below. To follow these steps you need to find the Terminal or Command Prompt on your computer. You will be able to find Terminal on a Mac or Linux laptop and a Command Prompt on a Windows laptop. If there is somewhere you are used to clicking and then typing the name of a program to search for it (e.g the start or Windows menu), that's where you would be typing Terminal or Command to pull up either of those programs.
 
