@@ -1,16 +1,16 @@
 # Data Wrangling with Python
 
-## Required prework
+## Required Prework
 During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own data! To make this possible, I ask that you do some setup on your laptop before arriving. If you run into trouble installing the necessities, please come to the class anyways. There will be people to help you.
 
-The workshop will make heavy use of [Software Carpentry's](https://software-carpentry.org/lessons/) lesson on scientific Python programming. Please download the sample data set python-novice-inflammation-data.zip from here: http://swcarpentry.github.io/python-novice-inflammation/setup/
+The workshop will make heavy use of [Software Carpentry's](https://software-carpentry.org/lessons/) lesson on scientific Python programming. Please download the sample data set python-novice-inflammation-data.zip from here: [http://swcarpentry.github.io/python-novice-inflammation/setup/](http://swcarpentry.github.io/python-novice-inflammation/setup/)
 
 Great. Now that you have the data, you need a programming language! Here are separate instructions for those who have used Python before and for newbies: 
 
 ### This is all new to me
 My recommendation for scientific Python is to install the Anaconda Python distribution. This is an easy way to install Python bundled up with a lot of really helpful libraries.
 
-You can choose between 3.6 and 2.7. If you are just starting out and aren't tied to any legacy code, I recommend going for 3.6. You can download either version here: https://www.anaconda.com/download/
+You can choose between 3.6 and 2.7. If you are just starting out and aren't tied to any legacy code, I recommend going for 3.6. You can download either version here: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 After completing the installation (could take up to 30 minutes), you will need to verify that it installed correctly following the steps below. To follow these steps you need to find the Terminal or Command Prompt on your computer. You will be able to find Terminal on a Mac or Linux laptop and a Command Prompt on a Windows laptop. If there is somewhere you are used to clicking and then typing the name of a program to search for it (e.g the start or Windows menu), that's where you would be typing Terminal or Command to pull up either of those programs.
 
@@ -22,7 +22,7 @@ Great -- let's check that you have interactive Python and a few really helpful l
 ```markdown
 ipython
 ```
-If you see a Python version number, an iPython version number, and get a new prompt strting with "In [1]:", then you have interactive Python! If you see an error instead of these things, then you will need to install interactive python. I reccomend going back to "This is all new to me," but you can also forge ahead by installing iPython on its own (https://ipython.org/install.html)
+If you see a Python version number, an iPython version number, and get a new prompt strting with "In [1]:", then you have interactive Python! If you see an error instead of these things, then you will need to install interactive python. I recommend going back to "This is all new to me," but you can also forge ahead by installing iPython on its own ([https://ipython.org/install.html](https://ipython.org/install.html))
 
 2. Now check for packages that we will use in class by typing these lines followed by enter after each line.
 ```markdown
@@ -31,7 +31,7 @@ import glob
 import numpy as np
 import matplotlib.pyplot as plt
 ```
-If these packages are already installed, then the ipython console will simply return new input lines. If you are missing any of these libraries, you will see a message like "ImportError: No module named matplotlib." If that is the case, you can try installing the missing packages individually (https://matplotlib.org/users/installing.html) or go back to This is all new to me.
+If these packages are already installed, then the ipython console will simply return new input lines. If you are missing any of these libraries, you will see a message like "ImportError: No module named matplotlib." If that is the case, you can try installing the missing packages individually ([https://matplotlib.org/users/installing.html](https://matplotlib.org/users/installing.html)) or go back to This is all new to me.
 
 3. Now let's try to generate a figure window (where you would display a graph). In the iPython console where you have already imported matplotlib.pyplot as plt, type this on two new lines:
 ```
