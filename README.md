@@ -1,7 +1,7 @@
 # Data Wrangling with Python
 
 ## Workshop Links
-[Software Carpentry Lesson](http://swcarpentry.github.io/python-novice-inflammation/){:target="_blank"}
+[Software Carpentry Lesson](http://swcarpentry.github.io/python-novice-inflammation/){:target="_blank"} 
 
 <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip" download="Download">Download Mock Patient Data</a> 
 
