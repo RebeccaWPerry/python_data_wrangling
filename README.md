@@ -6,6 +6,7 @@
 <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip" download="Download">Download Mock Patient Data</a>
 
 <a href="Weather_Radar.csv" download="Weather_Radar.csv"> Download Weather Radar Station Data</a>
+
 Weather Radar Station Exercises
 - Import the latitude and longitude data
 - Plot the latitude and logitude data as a scatter plot
