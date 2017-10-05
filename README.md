@@ -5,7 +5,7 @@
 
 <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip" download="Download">Download Mock Patient Data</a>
 
-<a href="Weather_Radar.csv" download="download"> Download Weather Radar Station Data</a>
+<a href="Weather_Radar.csv" download="Weather_Radar.csv"> Download Weather Radar Station Data</a>
 
 ## Required Prework
 During this workshop, you will be writing Python code on your own laptop to analyze a provided sample data set. Working on your own laptop means you will walk away from the workshop ready to continue learning Python and using it with your own data! To make this possible, I ask that you do some setup on your laptop before arriving. If you run into trouble installing the necessities, please come to the class anyways. There will be people to help you.
