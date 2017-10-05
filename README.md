@@ -1,9 +1,11 @@
 # Data Wrangling with Python
 
 ## Workshop Links
-[Software Carpentry Lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/){:target="_blank"}
+[Software Carpentry Lesson](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
 
 <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip" download="Download">Download Mock Patient Data</a>
+
+{{github.com/RebeccaWPerry/python_data_wrangling.url }}Weather_Radar.csv. 
 
 <a href="Weather_Radar.csv" download="download"> Download Weather Radar Station Data</a>
 
